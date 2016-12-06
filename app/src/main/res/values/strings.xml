@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlacesDemo</string>
+    <string name="get_nearby_places">Get nearby places</string>
+</resources>
